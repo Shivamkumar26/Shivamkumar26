@@ -1,3 +1,8 @@
+<style>
+  a {
+    margin-right: 10px;
+  }
+</style>
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <h3 align="center">A Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
@@ -15,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shivam-kumar-b09b94175/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" alt="https://www.linkedin.com/in/shivam-kumar-b09b94175/" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/shivamk17/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRowwSZPlBt_Q7LiTAyWo0uaZf9ATTn4EjNuQ&usqp=CAU" alt="https://leetcode.com/shivamk17/" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/shivamk17/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRowwSZPlBt_Q7LiTAyWo0uaZf9ATTn4EjNuQ&usqp=CAU" alt="https://leetcode.com/shivamk17/" height="40" width="55" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
