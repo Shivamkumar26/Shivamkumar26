@@ -18,7 +18,7 @@
 </p>
 <p align="left">
 <a href="https://auth.geeksforgeeks.org/user/shivam264kumar/practice" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRhNbRndQXwJo74QRkcXEcNxQiYENcT7Hivg&usqp=CAU" alt="GFG" height="40" width="40"/></a>
-<a href="https://twitter.com/Im_Shivamk" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_jrm3UUYeyF7JnS75pMvuSwp5MkqVp_a4jA&usqp=CAU" alt="Twitter" height="40" width="40"/></a>
+<a href="https://twitter.com/Im_Shivamk" target="blank"><img src="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7275.png" alt="Twitter" height="40" width="40"/></a>
 </p>
 
 <br>
@@ -27,8 +27,8 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="margin-left: 20px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-left: 20px;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVCOo8AhUVIe7fBkX57RG1FCbToUou5wh5hg&usqp=CAU" alt="java" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-left: 20px;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKmJE3bBLMQb0bhPJeLi_h_40w8oCxmGdlzw&usqp=CAU" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin-left: 20px;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr7hWu-N5eW5iFhzGfSkKLrw4lGxCuMNomdA&usqp=CAU" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin-left: 20px;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlgFMQA2Kz1e-vSsDSSPH7lHd8_r2dJuAEfA&usqp=CAU" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin-left: 20px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin-left: 20px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c" width="40" height="40" style="margin-left: 20px;"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40" style="margin-left: 20px;"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-left: 20px;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5hDbbIe63WRwCWAfpzNop86ShXtbRN49Svw&usqp=CAU" alt="mysql" width="40" height="40"/> </a>
