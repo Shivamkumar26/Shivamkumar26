@@ -13,8 +13,8 @@
 <br>
 <h3 align="left">Profiles :  👼 ✨</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivam-kumar-b09b94175/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" alt="https://www.linkedin.com/in/shivam-kumar-b09b94175/" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/shivamk17/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAG3opWgbXA7NUjT2nQbN1kvL2m6u0ArLAjw&usqp=CAU" alt="https://leetcode.com/shivamk17/" height="40" width="40"/></a>
+<a href="https://www.linkedin.com/in/shivam-kumar-b09b94175/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" alt="Linkedin" height="40" width="40" /></a>
+<a href="https://leetcode.com/shivamk17/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAG3opWgbXA7NUjT2nQbN1kvL2m6u0ArLAjw&usqp=CAU" alt="Leetcode" height="40" width="40"/></a>
 </p>
 <p align="left">
 <a href="https://auth.geeksforgeeks.org/user/shivam264kumar/practice" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRhNbRndQXwJo74QRkcXEcNxQiYENcT7Hivg&usqp=CAU" alt="GFG" height="40" width="40"/></a>
