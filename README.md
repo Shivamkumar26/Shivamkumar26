@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkumar26&label=Profile%20views&color=0e75b6&style=flat" alt="shivamkumar26" /> </p>
 
-- 🌱 I’m currently working on **Web Development** 🌱
+- 🌱 I’m currently working on **Frontend Web Development** 🌱
 
-- 💬 Ask me about **DSA , Web development** 👨‍💻
+- 💬 Ask me about **DSA , Frontend** 👨‍💻
 
 - 📫 How to reach me **shivam264kumar@gmail.com** 💌
 <br>
