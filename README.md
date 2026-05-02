@@ -3,7 +3,7 @@
 
 ---
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/kSCB3oEcIpwRO/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 ### 🚀 About Me
 
@@ -70,27 +70,29 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamkumar26&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivamkumar26&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumar26&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivamkumar26&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🔗 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/shivam-kumar-b09b94175/" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" width="40"/>
-</a>
-<a href="https://leetcode.com/shivamk17/" target="blank">
-  <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3628885-3030025.png" height="40" width="40"/>
-</a>
-<a href="mailto:shivam264kumar@gmail.com">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" width="40"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivam-kumar-b09b94175/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/shivamk17/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23000000?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="mailto:shivam264kumar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
